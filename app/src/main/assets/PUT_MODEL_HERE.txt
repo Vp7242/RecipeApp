@@ -1,0 +1,1 @@
+Put food_model.onnx and labels.txt here (produced by training/train_food_model_windows.py).

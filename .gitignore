@@ -1,0 +1,35 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/DALVIK VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+/build/
+**/build/
+*.hprof
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python files (training folder)
+training/venv/
+training/__pycache__/
+*.pyc
+training/data/
+training/out/
